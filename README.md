@@ -1,5 +1,4 @@
-# Criação de uma webapp com Python em Flask:
- - Criação de aplicação <br>
+# Criação de uma web app com Python em Flask:
  - Integração do Python com HTML <br>
  - Orientação a objetos <br>
  - Formulários <br>
