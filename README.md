@@ -1,7 +1,7 @@
-Criação de uma webapp com Python em Flask:
-	- Criação de aplicação
-	-	Integração do Python com HTML
-	-	Orientação a objetos
-	-	Formulários
-	-	Métodos POST e GET
-	-	Utilização de Session e Query Strings
+# Criação de uma webapp com Python em Flask:
+ - Criação de aplicação <br>
+ - Integração do Python com HTML <br>
+ - Orientação a objetos <br>
+ - Formulários <br>
+ - Métodos POST e GET <br>
+ - Utilização de Session e Query Strings <br>
